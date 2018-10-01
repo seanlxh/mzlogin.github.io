@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://seanlxh.github.io
 date_format: "ordinal"
 title:"码思" 
 subtitle: "Code in Life"
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Li xiaohe
-organization: zkh360.com
+organization: thu
 organization_url: http://www.zkh360.com
 github_username: seanlxh
 location: Beijing, China
