@@ -28,6 +28,5 @@ Log变换倾向于拉伸那些落在较低的幅度范围内自变量值的范�
 
 ---
 
-欢迎关注我的微信公众号，接收 markdown-intro 最新动态。
 
 <div align="center"><img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/></div>
