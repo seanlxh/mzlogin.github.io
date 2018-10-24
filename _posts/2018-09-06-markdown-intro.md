@@ -3,7 +3,7 @@ layout: post
 title: 一份简明的 Markdown 笔记与教程
 categories: Markdown
 description: 一份简明的 Markdown 笔记与教程
-keywords: Markdown, VSCode
+keywords: 机器学习, python
 ---
 
 开始尝试使用自己的个人博客，test
