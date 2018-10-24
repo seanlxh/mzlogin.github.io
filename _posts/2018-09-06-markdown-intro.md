@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 一份简明的 Markdown 笔记与教程
+title: 机器学习作业1
 categories: 机器学习
-description: 一份简明的 Markdown 笔记与教程
+description: 机器学习作业1
 keywords: 机器学习, python
 ---
 
