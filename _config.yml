@@ -5,7 +5,7 @@ baseurl:
 url: https://seanlxh.github.io
 date_format: "ordinal"
 title: "码思" 
-subtitle: "Code in Life"
+subtitle: "努力的新人"
 description: "Lixh的个人博客"
 keywords: 码思, Li xiaohe, seanlxh
 timezone: Asia/Beijing
@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Li xiaohe
-organization: thu
-organization_url: http://www.zkh360.com
+organization: 在读学生
+organization_url: seanlxh.github.io
 github_username: seanlxh
 location: Beijing, China
 email: seanlxh@163.com
