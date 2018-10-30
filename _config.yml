@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: "LiXiaohe’s Blog" 
 subtitle: "黑夜尽头"
 description: "Lixh的个人博客"
-keywords: 码思, Li xiaohe, seanlxh
+keywords: Li xiaohe, seanlxh
 timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
